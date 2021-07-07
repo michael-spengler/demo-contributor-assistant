@@ -48,6 +48,19 @@
             true
           ]
         ]
+      },
+      {
+        "user": {
+          "databaseId": 52361520,
+          "login": "oganexon"
+        },
+        "issue": 12,
+        "date": "2021-07-07T14:08:44.589Z",
+        "fields": [
+          [
+            true
+          ]
+        ]
       }
     ],
     "superseded": [],
